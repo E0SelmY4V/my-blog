@@ -4,9 +4,9 @@
 	"name": "root",
 	"description": "root",
 	"license": "MIT",
-	"author": "accurtype",
+	"author": "E0SelmY4V",
 	"repository": {
-		"url": "git+https://github.com/accurtype/monodemo",
+		"url": "git+https://github.com/E0SelmY4V/my-blog",
 		"type": "git"
 	},
 	"type": "module",
@@ -53,7 +53,7 @@
 		"tsx": "latest",
 		"tinyglobby": "latest",
 		"esbuild": "latest",
-		"typescript": "latest"
+		"typescript": "^6.0.0"
 	},
 	"prettier": {
 		"printWidth": 200,
